@@ -6,7 +6,7 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
-public class ApplicationS extends Application {
+public class Aplications extends Application {
 
 	int click = 0;
 	Button[][] botoes = new Button[3][3];
