@@ -1,5 +1,7 @@
 package br.com.alvaro.jogo.model;
 
+
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
